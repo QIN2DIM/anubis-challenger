@@ -1,2 +1,2 @@
 # anubis-challenger
-Gracefully navigate [anubis challenge](https://github.com/TecharoHQ/anubis) to empower your Agent application.
+Gracefully navigate the [anubis challenge](https://github.com/TecharoHQ/anubis) to empower your Agent application.
